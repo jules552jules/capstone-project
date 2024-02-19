@@ -51,7 +51,7 @@
                 <div class="d-flex justify-content-center py-4">
                   <a href="index.html" class="logo d-flex align-items-center w-auto">
                     <img src="assets/img/UI-logo.jpg" alt="">
-                    <span class="d-none d-lg-block">Phinma Education UI</span>
+                    <span class="d-none d-lg-block">Phinma Education UI </span>
                   </a>
                 </div><!-- End Logo -->
 
@@ -61,7 +61,7 @@
 
                     <div class="pt-4 pb-2">
                       <img src="assets/img/tech5.gif" class="card-img-top" alt="Card Image">  
-                      <h5 class="card-title text-center pb-0 fs-4">Login to Your Account</h5>
+                      <h5 class="card-title text-center pb-0 fs-4">Login to Your Account here</h5>
                       <p class="text-center small">Enter your username & password to login</p>
                     </div>
 
